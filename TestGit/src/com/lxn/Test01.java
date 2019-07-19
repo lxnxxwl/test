@@ -12,6 +12,7 @@ public class Test01 {
 		/**
 		 * System.out.println("eclipse 用户2加入更新");
 		 * */
+		//欢迎新版eclipse
 	}
 
 }
