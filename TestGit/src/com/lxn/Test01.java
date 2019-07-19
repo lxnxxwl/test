@@ -15,6 +15,7 @@ public class Test01 {
 		//x
 		//欢迎新版eclipse
 		//莫名出来了
+		/**刚刚成功再次测试*/
 	}
 
 }
