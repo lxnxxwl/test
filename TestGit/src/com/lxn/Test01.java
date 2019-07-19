@@ -10,9 +10,11 @@ public class Test01 {
 		System.out.println("git娑撳﹥娲块弨鐟板敶鐎癸拷");
 		System.out.println("eclipse 鐢ㄦ埛2鍔犲叆鏇存柊");
 		/**
-		 * System.out.println("eclipse 鐢ㄦ埛2鍔犲叆鏇存柊");
+		 * System.out.println("eclipse 用户2加入更新");
 		 * */
 		//x
+		//欢迎新版eclipse
+		//莫名出来了
 	}
 
 }
