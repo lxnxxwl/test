@@ -7,6 +7,7 @@ public class Test01 {
 		System.out.println("eclipse更改内容");
 		System.out.println("eclipse更改内容");
 		System.out.println("eclipse第二次更改内容");
+		System.out.println("git上更改内容");
 	}
 
 }
